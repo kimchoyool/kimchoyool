@@ -30,9 +30,10 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 </p>
-<p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchoyool&show_icons=true&theme=radical)
-</p>
-<p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchoyool&layout=compact)](https://github.com/delay-100/github-readme-stats)
-</p>
+<div align="center">
+  
+<!-- most used language -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchoyool&layout=compact)](https://github.com/kimchoyool/github-readme-stats) 
+<br> <!-- Github Status --> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchoyool&show_icons=true&theme=dracula)](https://github.com/kimchoyool/github-readme-stats)
+
+</div>
