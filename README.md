@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ChoYool</h1>
 <h3 align="center">백엔드 개발자를 목표로 달려가고 있습니다!🏃‍♀️</h3>
 
-- 🔭 I’m currently working on [Chacha](https://github.com/WomenTech-Chacha/Chacha)
+- 🔭 I’m currently working on [veggiEats](https://github.com/kimchoyool/veggiEats)
 
 - 📫 How to reach me **rlachdbf@naver.com**
 <!--
